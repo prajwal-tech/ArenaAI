@@ -1,4 +1,4 @@
-# ArenaAI — Real-time AI Creative Battle Room
+# ArenaAI Real-time AI Creative Battle Room
 
 A multiplayer platform where participants compete in AI-powered creative challenges. Built with a local LLM via Ollama no API keys, no cloud costs.
 
