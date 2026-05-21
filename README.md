@@ -107,6 +107,7 @@ Open **http://localhost:3000**
 
 ## Project Structure
 
+```
 arenaai/
 ├── backend/
 │   ├── main.py            # All API routes
@@ -124,6 +125,7 @@ arenaai/
         ├── store.ts            # Zustand auth store
         ├── useWebSocket.ts     # WS hook with auto-reconnect
         └── types.ts            # TypeScript types
+```
 
 
 
