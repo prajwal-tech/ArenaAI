@@ -124,7 +124,7 @@ arenaai/
         ├── store.ts            # Zustand auth store
         ├── useWebSocket.ts     # WS hook with auto-reconnect
         └── types.ts            # TypeScript types
-```
+
 
 
 ## Known Limitations
