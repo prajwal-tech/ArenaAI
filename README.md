@@ -142,5 +142,3 @@ arenaai/
 Built using FastAPI, Next.js, and Ollama. 
 
 
-
-MIT
